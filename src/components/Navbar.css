@@ -1,0 +1,18 @@
+.navbar-container{
+  display: flex;
+  justify-content: space-around;
+  background: #191415;
+  border-top: 1px solid #f2f2f2;
+  padding: 7px;
+  display: flex;
+}
+
+.buttons-navbar{
+  background: none;
+  border: none;
+  color: #fff;
+}
+
+.brand{
+  color: #fff;
+}

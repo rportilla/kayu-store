@@ -1,0 +1,14 @@
+.cart-container{
+    display: flex;
+    color: #fff;
+}
+
+.cart-icon{
+    width: 23px;
+    height: 23px;
+    align-self: center;
+}
+
+.cart-number{
+    align-self: center;
+}
