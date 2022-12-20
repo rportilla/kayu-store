@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Balón Futsal Mitre Tensión Nº4",
+      "description": "Cumple con todos los requerimientos de tamaño, peso, medida y bote del futsal.",
+      "price": 29.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/CapturadePantalla2021-12-10ala_s_15.14.03_1024x1024.png?v=1639160100"
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "Balón Futbol 3400 Vantaggio Nº 4",
+      "description": "Material de cuero compuesto, construcción de 32 paneles y tecnología híbrido.",
+      "price": 34.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/CapturadePantalla2022-07-25ala_s_16.59.57_1024x1024.png?v=1658782866"
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "name": "Balón de Fútbol Mitre New Ultimatch Nº 4",
+      "description": "Tecnología Hyperseam que proporciona un excelente sellado, impidiendo el ingreso y absorción de agua.",
+      "price": 29.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/BalonNewUltimachMitre_1024x1024.jpg?v=1668720954"
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "name": "Casco Bicicleta Enduro Bell Nomad Mips Mate Blue/Black",
+      "description": "No hay mejor sensación que salir en tu bicicleta y explorar nuevos y emocionantes senderos, y el casco Nomad está diseñado para hacer exactamente eso. Con su construcción liviana en el molde, y el ajuste de ajuste Ergo, el Nomad brinda una comodidad excepcional sin importar cuánto tiempo estés en tu bicicleta. El diseño específico del sendero incluye mucha cobertura inferior, y con la tecnología MIPS para arrancar, puede conducir con confianza y concentrarse en el singletr por delante. Los senderos están esperando, y con nuestro casco Nomad, no tienes excusa más que para salir y montar.",
+      "price": 74.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/bell-nomad-mips-mountain-bike-helmet-matte-blue-black-left_1024x1024.jpg?v=1607719870"
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "name": "Casco Bell Spark Mips M-G Gray Black",
+      "description": "Con un diseño elegante con cobertura extendida y una visera integrada, el Spark respalda el diseño limpio y su forma bien ventilada con un gran ajuste y la protección mejorada que ofrece MIPS. Diseñado para aspirantes a jinetes de senderos, el Spark le permite cargar con confianza.",
+      "price": 89.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/Cascobell-spark-mips-mountain-bike-helmet-matte-gloss-gray-black-front-right4_1024x1024.jpg?v=1628110320"
+    },
+    {
+      "id": 6,
+      "category_id": 3,
+      "name": "Guante Arquero Trent Férula",
+      "description": "Guante De Arquero Con Palma De Latex.",
+      "price": 29.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/479586-0700-001_1024x1024.jpg?v=1576031200"
+    },
+    {
+      "id": 7,
+      "category_id": 3,
+      "name": "Guante Arquero Rio Infantil con Férula",
+      "description": "Guantes para Arquero con látex Alemán 3+1 mm permitiendo un óptimo agarre del balón.",
+      "price": 19.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/RIO-JR-VERDE-JUNIOR-1000X1000_1024x1024.jpg?v=1580229101"
+    },
+    {
+      "id": 8,
+      "category_id": 3,
+      "name": "Bombín Pelota Molten",
+      "description": "Infla Rápidamente debido al la tecnología de inflado, infla al bajar y al subir. el mango del bombín.",
+      "price": 14.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/bombin-molten_1024x1024.jpg?v=1566417056"
+    },
+    {
+      "id": 9,
+      "category_id": 4,
+      "name": "Guante Box Drago 12 ONZ Lila",
+      "description": "En su interior: Poliuretano del alto impacto y de alta resistencia, permitiéndole un calce perfecto.",
+      "price": 22.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/guante_box_12_lila_1024x1024.jpg?v=1662654730"
+    },
+    {
+      "id": 10,
+      "category_id": 4,
+      "name": "Guante Box Drago 14 ONZ",
+      "description": "Guante de Box confeccionado en cuero sintético.",
+      "price": 22.990,
+      "image": "https://cdn.shopify.com/s/files/1/0217/0195/1560/products/drago-negro-1000x1000-1_94315bfa-6ae9-47c5-9f89-315e74aca236_1024x1024.jpg?v=1647446233"
+    }
+  ]
+}
